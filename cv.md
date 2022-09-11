@@ -8,6 +8,8 @@
 
 **Telegram:** @MaryLitvinova
 
+**Discord nickname:**  Maria  Litvinova (@MaryLit)
+
 Irkutsk, RF
 
 ## Brief information about myself:
@@ -35,7 +37,7 @@ function square(number) {
 
 ## Education:
 
-Irkutsk Sate Linguistic Univercity, Advertising specialist
+Irkutsk State Linguistic Univercity, Advertising specialist
 
 ## Languages:
 
